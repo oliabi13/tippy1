@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href=").
+<a href="https://github.com/oliabi13/tippy1/blob/master/tipCalculator.gif?raw=true" target="_blank"><img src='https://github.com/oliabi13/tippy1/blob/master/tipCalculator.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ## Notes
 
