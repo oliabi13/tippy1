@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TotalViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():TotalViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "billField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "billLabel">
+            </PersistentString>
+            <PersistentString
+               value = "passedBill">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

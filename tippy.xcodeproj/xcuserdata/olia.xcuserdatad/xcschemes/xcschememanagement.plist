@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>TipCalculator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>tippy.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>4F1A9C591E4C3DBF006BCFD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F1A9C741E4FA2BD006BCFD7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
